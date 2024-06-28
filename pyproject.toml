@@ -1,0 +1,15 @@
+[project]
+name = "comfyui_inspyresnet_zmq"
+description = "Nodes:INSPY removebg ModelLoader, INSPY RMBG"
+version = "1.0.0"
+license = "LICENSE"
+dependencies = ["transparent-background"]
+
+[project.urls]
+Repository = "https://github.com/mingqizhang/ComfyUI_InSPyResNet_zmq"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI_InSPyResNet_zmq"
+Icon = ""
